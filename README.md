@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Karen, I am a student of LSTU, a frontend developer and part of the **Flumine** team
+Hi, my name is Karen, I am frontend developer and part of the **Flumine** team
 
 
 # 💻 Tech Stack:
